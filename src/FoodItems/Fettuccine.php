@@ -1,7 +1,7 @@
 <?php
 namespace FoodItems;
 
-class FrenchFries extends FoodItem {
+class Fettuccine extends FoodItem {
     public const CATEGORY = "Pasta";
 
     public function __construct() {
